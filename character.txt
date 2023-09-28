@@ -2,3 +2,6 @@ Bài 1:  Phương pháp test ko phải như vậy, em phải chuẩn bị các t
 Input param chưa được check hợp lệ hay không
 Bài 2: demo bị hard code size=2
 Bài 3: hiểu sai đề, stop là 1 thời điểm app call kết thúc  swtimer và mình cần phải trả về eslapse time, chứ nếu mình biết stop time r thì có elapse time r còn gì nữa.
+
+Tom and jerry
+once daydasd 
